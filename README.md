@@ -3,7 +3,7 @@ Medipol Üniversitesi Mobil Yazılımlar Final Ödevi Oyun Firmaları
 
 ## Proje Logo
 <p align="center">
-<img src="https://raw.githubusercontent.com/oguzgunaydin/OyunFirmalari/main/Logo/OyunFirmalari%20Logo.jpg"/>
+<img src="https://raw.githubusercontent.com/oguzgunaydin/OyunFirmalari/main/Logo/OyunFirmalari%20Logo.jpg" height="100" width="100"/>
 </p>
 Projemde altı adet oyun firması hakkında kısa bir bilgi verdim.
 Veriler kendi github hesabımdaki JSON verileri ile oluşturuldu.
