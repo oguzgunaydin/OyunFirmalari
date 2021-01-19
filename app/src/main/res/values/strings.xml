@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">H5190037_OğuzhanGünaydınFinal</string>
+    <string name="app_connection">İnternet Bağlantınız Yok</string>
+    <string name="app_splashEkranBilgi">SplashActivity</string>
+    <string name="app_listeEkranBilgi">ListeActivity</string>
+    <string name="app_information">İnternet Bağlantınız Yok</string>
+    <string name="app_netInformation">Uygulamaya girmek için internetinizi açın!</string>
+    <string name="app_goSettings">Ayarlara Git</string>
+    <string name="app_no">Hayır</string>
+    <string name="app_wait">Lütfen Bekleyin</string>
+    <string name="app_yes">Evet</string>
+    <string name="app_extMsg">Uygulamadan Çıkmak İstiyormusunuz?</string>
+    <string name="app_extBtn">Dikkat</string>
+    <string name="app_txtBaslik">BAŞLIK</string>
+    <string name="app_txtDetay">DETAY</string>
+    <string name="app_firmaAdi">FİRMA ADI</string>
+    <string name="app_kurulusTarihi">Kuruluş Tarihi</string>
+    <string name="app_kurulusYeri">Kuruluş Yeri</string>
+
+</resources>

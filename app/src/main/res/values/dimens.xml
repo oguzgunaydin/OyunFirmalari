@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <dimen name="imageView_height">205dp</dimen>
+    <dimen name="recyclerView_height">0dp</dimen>
+    <dimen name="cardPadding">16dp</dimen>
+    <dimen name="textSizeDetay">30sp</dimen>
+    <dimen name="textViewPadding">10dp</dimen>
+    <dimen name="detayImgViewHeight">200dp</dimen>
+    <dimen name="textSizePaddingTwo">20sp</dimen>
+    <dimen name="layEditorX">89dp</dimen>
+    <dimen name="layoutMargin">12dp</dimen>
+    <dimen name="cardLayout">100dp</dimen>
+    <dimen name="cardTextTitleSize">20sp</dimen>
+    <dimen name="cardTextSize">14sp</dimen>
+
+</resources>
