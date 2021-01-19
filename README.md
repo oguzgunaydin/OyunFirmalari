@@ -24,3 +24,11 @@ Veriler kendi github hesabımdaki JSON verileri ile oluşturuldu.
 <p align="left">
   <img height= "550" src="https://raw.githubusercontent.com/oguzgunaydin/OyunFirmalari/main/MimariYapi.jpg" />
 </p>
+
+## Projede Kullanılan Teknolojiler
+
+<li><a href="https://github.com/ReactiveX/RxJava">RxJava</a></li>
+<li><a href="https://square.github.io/retrofit/">Retrofit</a></li>
+<li><a href="https://github.com/square/okhttp">OkHttp</a></li>
+<li><a href="https://developer.android.com/jetpack/androidx/releases/recyclerview?hl=en">RecyclerView</a></li>
+<li><a href="https://developer.android.com/reference/java/util/Observer">Observer</a></li>
