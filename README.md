@@ -10,9 +10,11 @@ Veriler kendi github hesabımdaki JSON verileri ile oluşturuldu.
 
 ## Ekran Görüntüleri
 <p align="center">
-<img src="https://raw.githubusercontent.com/oguzgunaydin/OyunFirmalari/main/Screens/SplashEkrani.jpg"/>
-<img src="https://raw.githubusercontent.com/oguzgunaydin/OyunFirmalari/main/Screens/ListeEkrani.jpg"/>
-<img src="https://raw.githubusercontent.com/oguzgunaydin/OyunFirmalari/main/Screens/DetayEkrani.jpg"/>
-<img src="https://raw.githubusercontent.com/oguzgunaydin/OyunFirmalari/main/Screens/BaglantiKontrolEkrani.jpg"/>
-<img src="https://raw.githubusercontent.com/oguzgunaydin/OyunFirmalari/main/Screens/CikisEkrani.jpg"/>
+  
+<img height= "https://raw.githubusercontent.com/oguzgunaydin/OyunFirmalari/main/Screens/SplashEkrani.jpg" />
+<img height= "https://raw.githubusercontent.com/oguzgunaydin/OyunFirmalari/main/Screens/ListeEkrani.jpg" />
+<img height= "https://raw.githubusercontent.com/oguzgunaydin/OyunFirmalari/main/Screens/DetayEkrani.jpg" />
+<img height= "https://raw.githubusercontent.com/oguzgunaydin/OyunFirmalari/main/Screens/BaglantiKontrolEkrani.jpg" />
+<img height= "https://raw.githubusercontent.com/oguzgunaydin/OyunFirmalari/main/Screens/CikisEkrani.jpg" />
+
 </p>
