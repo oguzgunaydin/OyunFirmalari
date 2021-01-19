@@ -22,5 +22,5 @@ Veriler kendi github hesabımdaki JSON verileri ile oluşturuldu.
 ## Mimari Yapı
 
 <p align="left">
-  <img height= "400" src"https://raw.githubusercontent.com/oguzgunaydin/OyunFirmalari/main/MimariYapi.jpg" />
+  <img height= "400" src="https://raw.githubusercontent.com/oguzgunaydin/OyunFirmalari/main/MimariYapi.jpg" />
 </p>
